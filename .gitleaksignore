@@ -1,0 +1,16 @@
+6c2e838236296d2146031dd5aec568b1ede70b0d:botocore/data/s3/2006-03-01/examples-1.json:generic-api-key:1178
+5cd79307a6603462496711763fd80b92cf17679e:tests/unit/test_signers.py:private-key:261
+569af2226f584f0aff851bd860673915b9324c69:services/sns.json:gcp-api-key:297
+569af2226f584f0aff851bd860673915b9324c69:botocore/data/aws/sns/2010-03-31.json:gcp-api-key:297
+a2b9597dc070f8a2406f6b9d98b29de0455f0e45:services/iam.json:private-key:6606
+a2b9597dc070f8a2406f6b9d98b29de0455f0e45:botocore/data/aws/iam/2010-05-08.json:private-key:6715
+aa6ea822e0e7e03afecc657266a3b940300c2365:services/sns.json:gcp-api-key:297
+aa6ea822e0e7e03afecc657266a3b940300c2365:botocore/data/aws/sns.json:gcp-api-key:297
+2a9d03b4e0e4c41b38d43da11fc265279951e82f:botocore/data/aws/iam.json:private-key:6468
+2a9d03b4e0e4c41b38d43da11fc265279951e82f:services/iam.json:private-key:6375
+dd61c3f070a1d90738e52c0cc1ba354c9ec789fc:botocore/data/aws/sns.json:aws-access-token:925
+22cc629a8358e3612c7aedca7629ef4952cb39ef:services/sns.json:aws-access-token:935
+22cc629a8358e3612c7aedca7629ef4952cb39ef:services/iam.json:private-key:5694
+dd61c3f070a1d90738e52c0cc1ba354c9ec789fc:botocore/data/aws/iam.json:private-key:5610
+28d1eab7e42a5369332122b3745803a7ca29c936:botocore/data/aws/sns.json:aws-access-token:980
+28d1eab7e42a5369332122b3745803a7ca29c936:botocore/data/aws/iam.json:private-key:5691
